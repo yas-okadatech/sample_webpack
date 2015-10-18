@@ -1,0 +1,11 @@
+{
+  "description": "webpack sample",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yas-okadatech/sample_webpack.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.12.2"
+  }
+}
